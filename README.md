@@ -21,3 +21,11 @@
 Sou fascinado pela tecnologia e mergulhar em seu estudo me revela soluções surpreendentes.
 
 ## Sobre mim:
+
+<div sttyle="display: inline_block"><br/>
+    <p>Cursando Engenharia de Software na PUCPR, atualmente no 3º período de um total de 8, dedico-me constantemente ao aprendizado e aprofundamento em programação e engenharia de software. Busco ampliar meu conhecimento em diversas áreas relacionadas, sempre em busca de desafios que me permitam crescer profissionalmente. Caso deseje entrar em contato, meu e-mail é <a>luisedgon@outlook.com</a>.</p>
+<div>
+
+- 🧑🏽 19 anos
+- 🏠 São José dos Pinhais
+- 🎓 2022 - 2025
