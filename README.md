@@ -6,8 +6,6 @@
 
 ![LuisGontarski's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisGontarski&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGontarski&layout=compact)
-
 ## Tecnologias que utilizo 💻
 
 <div sttyle="display: inline_block"><br/>
