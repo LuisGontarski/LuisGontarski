@@ -16,4 +16,8 @@
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> 
-<div>
+<div><br/>
+
+Sou fascinado pela tecnologia e mergulhar em seu estudo me revela soluções surpreendentes.
+
+## Sobre mim:
